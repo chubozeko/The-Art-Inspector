@@ -30,4 +30,4 @@ For Meta Quest 2:
 Make sure you have enough space around you to grab the objects on the ground, as they might fall and disperse farther than your VR workspace boundary.
 
 ## Demo
-[The Art Inspector](https://youtu.be/0JNCeMm_k8o)
+[![The Art Inspector](TAI_thumbnail.png)](https://youtu.be/0JNCeMm_k8o "The Art Inspector - Demo")
