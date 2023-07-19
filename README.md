@@ -1,0 +1,2 @@
+# The Art Inspector
+ An art inspector is tasked to identify and organize real art pieces from the fake ones by using a special magnifying glass which can view authentic signatures from the artist. This project covers the topics of render textures, translations, rotations using quaternions, and grabbing objects in VR. This was the second homework assignment for the Introduction to XR Systems course (521293A).
